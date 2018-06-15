@@ -1,0 +1,27 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#eclipse
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA Files 
+*.iml
+*.ipr 
+*.iws 
+*.idea
+
+
+# Build Artifacts 
+.gradle/
+build/
+target/
+bin/
+
+
+#other
+#jrebel
+rebel.xml
